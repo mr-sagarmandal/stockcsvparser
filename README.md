@@ -1,5 +1,4 @@
-
-#Stock CSV Parser: Parsing CSV files using Python Pandas#
+# Stock CSV Parser: Parsing CSV files using Python Pandas
 ### Requires: ###
 * Python Pandas
 
